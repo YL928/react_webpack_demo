@@ -1,4 +1,4 @@
-# A example for react$webpack 
+# A example for react&webpack 
 
 # Step by Step
 
