@@ -23,5 +23,8 @@ module.exports = {
         loader: 'svg-url-loader'
       }
     ]
+  },
+  resolve: {
+    extensions: ['.js', '.jsx', '.json']
   }
 }
